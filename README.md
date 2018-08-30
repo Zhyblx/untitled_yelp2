@@ -173,7 +173,7 @@
 
 <tr>
 <td>La Ventana Restaurant</td>
-<td>4/17/2015</td>
+<td>4/2015</td>
 <td>5.0</td>
 </tr>
 </table>
