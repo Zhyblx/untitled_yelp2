@@ -5,6 +5,11 @@ import com.zhangyibin.shopinfo.ShopInfoStorage;
 
 import java.io.*;
 
+/**
+ * 类：StartShopInfo
+ * 作用：启动店铺信息的爬虫程序
+ */
+
 public class StartShopInfo {
 
     private static File file = null;

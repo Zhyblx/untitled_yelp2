@@ -2,8 +2,11 @@ package com.zhangyibin.startup;
 
 import com.zhangyibin.shopcomment.ShopCommentInfo;
 import com.zhangyibin.shopcomment.ShopCommentInfoStorage;
-import com.zhangyibin.shophealth.ShopHealthInfo;
-import com.zhangyibin.shophealth.ShopHealthStorage;
+
+/**
+ * 类：StartShopCommentInfo
+ * 作用：启动店铺评分的爬虫程序
+ */
 
 import java.io.*;
 

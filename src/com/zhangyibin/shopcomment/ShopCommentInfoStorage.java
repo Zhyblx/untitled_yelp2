@@ -5,6 +5,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * 类：ShopCommentInfoStorage
+ * 作用：用于存储店铺的评分信息，并将文件存储在根目录ShopComment.txt下。
+ */
+
 public class ShopCommentInfoStorage {
 
     private static File file = null;

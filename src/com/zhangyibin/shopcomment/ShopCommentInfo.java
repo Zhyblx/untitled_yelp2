@@ -3,13 +3,15 @@ package com.zhangyibin.shopcomment;
 import java.util.List;
 import java.util.ArrayList;
 
-import com.zhangyibin.yelp_interface.Parameter;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.Connection;
 import org.jsoup.select.Elements;
 
-import javax.net.ssl.HttpsURLConnection;
+/**
+ * 类：ShopCommentInfo
+ * 作用：获取到每一家店铺的历年评分信息
+ */
 
 public class ShopCommentInfo {
 

@@ -2,8 +2,11 @@ package com.zhangyibin.startup;
 
 import com.zhangyibin.shophealth.ShopHealthInfo;
 import com.zhangyibin.shophealth.ShopHealthStorage;
-import com.zhangyibin.shopinfo.JsoupShopInfo;
-import com.zhangyibin.shopinfo.ShopInfoStorage;
+
+/**
+ * 类：StartShopHealthInfo
+ * 作用：启动健康数据的爬虫程序
+ */
 
 import java.io.*;
 
